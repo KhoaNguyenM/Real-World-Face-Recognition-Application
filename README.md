@@ -1,4 +1,4 @@
-# AI-powered-Facial-Recognition-Attendance-System
+# Real World Face Recognition Application
 This project aims to develop an AI-powered facial recognition attendance system that ensures accurate and efficient identity verification. The system operates by building a dedicated face database through the following process:
 
   1. Face Extraction with Object Detection – Faces are automatically detected and cropped from images using advanced object detection techniques.
